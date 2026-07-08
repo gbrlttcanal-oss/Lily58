@@ -12,9 +12,7 @@ ________________________________________
 Como configurar as teclas
 O teclado já está com o firmware padrão instalado. Para personalizar as teclas da forma que preferir, siga os passos abaixo:
 
-## Imagens do Lily58
-
-![Imagem 1 do Lily58](Imagem1.png)
+![Imagem 1 do Lily58](images/imagem1.png)
  
 1.	Baixe o VIAL:
 https://get.vial.today/
