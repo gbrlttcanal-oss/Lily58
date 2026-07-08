@@ -30,7 +30,7 @@ Por exemplo:
 
 ## Imagens do Lily58
 
-![Imagem 2 do Lily58](imagem2.png)
+![Imagem 2 do Lily58](images/Imagem2.png)
 
 Se o Windows estiver usando ABNT2 e o teclado estiver configurado como QWERTY, algumas teclas podem não funcionar corretamente.
 Exemplo:
