@@ -11,7 +11,7 @@ Portanto, a regra segura é sempre:
 ________________________________________
 Como configurar as teclas
 O teclado já está com o firmware padrão instalado. Para personalizar as teclas da forma que preferir, siga os passos abaixo:
-![Lily58 montado](images/imagem1.png)
+![Imagem 1 do Lily58](images/Imagem1.png)
  
 1.	Baixe o VIAL:
 https://get.vial.today/
@@ -26,7 +26,7 @@ O layout configurado no sistema operacional deve ser o mesmo usado no VIAL.
 Por exemplo:
 •	No meu caso, o Windows está configurado para Inglês Americano
 •	No VIAL o teclado está em QWERTY
- ![Lily58 montado](images/imagem2.png)
+![Imagem 2 do Lily58](images/Imagem2.png)
 Se o Windows estiver usando ABNT2 e o teclado estiver configurado como QWERTY, algumas teclas podem não funcionar corretamente.
 Exemplo:
 •	A tecla ç não será digitada corretamente, pois no teclado americano o ç é a ‘.
