@@ -14,7 +14,7 @@ O teclado já está com o firmware padrão instalado. Para personalizar as tecla
 
 ## Imagens do Lily58
 
-![Imagem 1 do Lily58](imagem1.png)
+![Imagem 1 do Lily58](Imagem1.png)
  
 1.	Baixe o VIAL:
 https://get.vial.today/
